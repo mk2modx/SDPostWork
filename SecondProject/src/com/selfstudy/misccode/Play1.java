@@ -10,6 +10,7 @@ public class Play1 {
 			takeUmbrella();
 		}
 		
+		
 		boolean doesBathe = false;
 		int popularityLevel = 100;
 		
