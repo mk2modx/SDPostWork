@@ -4,7 +4,7 @@ public class checkPermutations {
 
 	public static void main(String [] args) {
 	
-		permute("GOD");
+		permute("ABCD");
 		
 	}
 	public static void permute(String full) {
